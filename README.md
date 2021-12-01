@@ -49,6 +49,6 @@
 
 <details>
         <summary><strong>Need a hint?</strong></summary><br>
-  <p>Take a look at <a href="https://git.generalassemb.ly/joel-hughes-general-assembly/210422react_router_codealong">this repo</a> if you're stuck! You may even want to clone it and run <code>yarn install</code> and then <code>yarn start</code> to see an app using numerous React Router features.</p> 
-  <p>Then apply what you learn from this code to the assignment above.</p>
+  <p>Take a look at <a href="https://stackblitz.com/edit/github-agqlf5?file=src/App.jsx">this code</a> if you're stuck! It's the finished code from <a href="https://reactrouter.com/docs/en/v6/getting-started/tutorial">this tutorial</a> written by the authors of React Router. It has many more features in it than we're asking for in this assignment. Plus, they've set up their folder structure and named their files differently from how we've been doing it. There's mo need to mimic their folder structure or file naming conventions! Just study how they have links for "Invoices" and "Expenses" -- when you click "Invoices" you see links that, when clicked, pull in data from a data.jsx file. </p> 
+  <p>See if you can apply what you see happening in this code to the assignment above.</p>
 </details>
