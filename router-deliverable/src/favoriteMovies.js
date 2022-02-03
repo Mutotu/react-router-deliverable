@@ -1,5 +1,6 @@
 const data = [
   {
+    id: 0,
     title: "Shazam",
     year: 2019,
     summary:
@@ -8,6 +9,7 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
   },
   {
+    id: 1,
     title: "Captian Marvel",
     year: 2019,
     summary:
@@ -16,6 +18,7 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aYDRwraSc8SXgot5jabtspJTWZB.jpg",
   },
   {
+    id: 2,
     title: "Escape Room",
     year: 2019,
     summary:
@@ -24,6 +27,7 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pHZPHngiO8hG78wAmAzMWcIrKdW.jpg",
   },
   {
+    id: 3,
     title: "How to Train Your Dragon: The Hidden World",
     year: 2019,
     summary:
@@ -32,6 +36,8 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
   },
   {
+    show: false,
+    id: 4,
     title: "Glass",
     year: 2019,
     summary:
@@ -40,6 +46,7 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
   },
   {
+    id: 5,
     title: "Doraemon the Movie: Nobita's Treasure Island",
     year: 2018,
     summary:
@@ -48,6 +55,7 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg",
   },
   {
+    id: 6,
     title: "Dumbo",
     year: 1941,
     summary:
@@ -56,6 +64,7 @@ const data = [
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
   },
   {
+    id: 7,
     title: "Avengers: Infinity War",
     year: 2018,
     summary:

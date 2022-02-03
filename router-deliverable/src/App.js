@@ -13,8 +13,8 @@ function App() {
   const [movies, setMovies] = useState(data);
 
   return (
-    <div className='App'>
-      <BrowserRouter>
+    <BrowserRouter>
+      <div className='App'>
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />
@@ -26,8 +26,8 @@ function App() {
           />
           <Route path='/favoriteFood' element={<FavoriteFood />} />
         </Routes>
-      </BrowserRouter>
-    </div>
+      </div>
+    </BrowserRouter>
   );
 }
 
